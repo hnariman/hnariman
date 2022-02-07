@@ -1,2 +1,3 @@
 ## GREETINGS
-![coding](./giphy.gif)
+  ![coding](./giphy.gif)
+![code](./code.gif)
