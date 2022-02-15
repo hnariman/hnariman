@@ -15,5 +15,5 @@ width="200"
 src="https://github.com/hnariman/hnariman/blob/master/stationaryspaceman.gif"
 alt="happy spaceman"
 height="200"
-width="200"
+width="266"
 />
