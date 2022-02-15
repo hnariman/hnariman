@@ -8,13 +8,13 @@
     from {backgound: white;}
     to {backgound: black;}
   }
-  basic {
+  .basic {
     color:red;
     animation-name: sample;
     animation-duration: 2s;
   }
 </style>
 
-<basic>
+<p class="basic">
 this is some basic
-</basic>
+</p>
