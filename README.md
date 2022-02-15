@@ -3,4 +3,11 @@
   <!-- ![code](./code.gif)-->
 <!-- ![js code](./js.gif) -->
 <!-- ![space man on the rocket](./stationaryspaceman.gif) -->
-![rocket](./rocket.gif)
+<!-- ![rocket](./rocket.gif) -->
+
+<img
+src="https://github.com/hnariman/hnariman/blob/master/rocket.gif"
+alt="rocket"
+height="200"
+width="200"
+/>
