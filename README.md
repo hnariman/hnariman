@@ -1,12 +1,7 @@
 ## Nariman Huseynov
-📞 +994 (50) 367 3760
-📧 hnariman@gmail.com 
-🌐 [LinkedIn](https://www.linkedin.com/in/narimanh/)  
 
-
-🚀 Experienced Full Stack Developer 
-
-Node.js | TypeScript | AWS | C++ | GCP | Rust 🦀
+### 🚀 Full Stack Developer 
+### Node.js | TypeScript | AWS | C++ | GCP | Rust 🦀
 
 🏆 AWS Cloud Architect Professional License in Progress ⏳⏳⏳ 
 
