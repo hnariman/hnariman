@@ -5,10 +5,15 @@
 
 
 🚀 Experienced Full Stack Developer 
-🖥️ Node.js | ☁️ AWS | 🖥️ C++ | ☁️ GCP | 🦀 Rust  
+
+Node.js | TypeScript | AWS | C++ | GCP | Rust 🦀
+
 🏆 AWS Cloud Architect Professional License in Progress ⏳⏳⏳ 
 
-**Skills:** Full Stack Development | Cloud Optimization | Problem Solving  
+**Skills:** 
+- Full Stack Development
+- Cloud Optimization
+- Problem Solving  
 
 **Certifications:**  
 - C++ Developer
@@ -23,7 +28,10 @@
 - Azerbaijan Deposit Insurance Fund (Senior DevOps Engineer)  
 - TESO.az (Web Developer)  
 
-
+**Available for:**
+- 🛠️ Contracting
+- 🤝 Mentorship
+- 📝 Code reviews
 
 <!--   ![coding](./giphy.gif) -->
   <!-- ![code](./code.gif)-->
