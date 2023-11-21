@@ -1,7 +1,7 @@
 ## Nariman Huseynov
 
 ### 🚀 Full Stack Developer 
-### Node.js | TypeScript | AWS | C++ | GCP | Rust 🦀
+### Node.js | TypeScript | C++ | AWS | GCP | Rust 🦀
 
 🏆 AWS Cloud Architect Professional License in Progress ⏳⏳⏳ 
 
