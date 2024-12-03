@@ -17,6 +17,7 @@
 - Full Stack Flask
 
 **Experience:**  
+- TechneValue GmbH (Technical Lead/ Architect)
 - Akvelon, Inc. (Lead Software Development Engineer)  
 - TripShock! (Full Stack Developer)  
 - Smart Solutions Group (Senior Frontend Developer)  
