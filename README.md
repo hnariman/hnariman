@@ -1,7 +1,6 @@
 ## Nariman Huseynov
 
-### 🚀 Senior Software Engineer / Architect
-### 🦀 Rust Node.js | TypeScript | C++ | AWS  
+### 🦀 Rust Node.js | TypeScript | C++ | AWS 🚀
 
 **Skills:** 
 - Full Stack Development
