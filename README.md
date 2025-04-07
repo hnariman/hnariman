@@ -1,6 +1,6 @@
 ## Nariman Huseynov
 
-### 🦀 Rust Node.js | TypeScript | C++ | AWS 🚀
+### 🦀 Rust | Node.js | TypeScript | C++ | AWS 🚀
 
 **Skills:** 
 - Full Stack Development
