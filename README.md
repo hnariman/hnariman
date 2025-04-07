@@ -11,6 +11,8 @@
 - Problem Solving  
 
 **Certifications:**  
+- Software Architect
+- Rust Developer
 - C++ Developer
 - Node.js Backend
 - FrontEnd & React
