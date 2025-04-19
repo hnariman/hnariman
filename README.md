@@ -18,10 +18,10 @@
 **Experience:**  
 - TechneValue GmbH (Technical Lead/ Architect)
 - Akvelon, Inc. (Lead Software Development Engineer)  
-- TripShock! (Full Stack Developer)  
+- TripShock! (Senior Full Stack Developer)  
 - Smart Solutions Group (Senior Frontend Developer)  
-- Azerbaijan Deposit Insurance Fund (Senior DevOps Engineer)  
-- TESO.az (Web Developer)  
+- Azerbaijan Deposit Insurance Fund (Senior Engineer - DevOps)  
+- TESO.az (Web)  
 
 **Available for:**
 - 🛠️ Contracting
