@@ -4,7 +4,7 @@
 
 **Skills:** 
 - Full Stack Development
-- Cloud Optimization
+- Cloud Optimization (AWS Expert - translating xp to other cloud providers)
 - Problem Solving  
 
 **Certifications:**  
