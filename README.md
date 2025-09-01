@@ -16,6 +16,7 @@
 - Full Stack Flask
 
 **Experience:**  
+- RevTec - Solana finance protocol
 - TechneValue GmbH (Technical Lead/ Architect)
 - Akvelon, Inc. (Lead Software Development Engineer)  
 - TripShock! (Senior Full Stack Developer)  
