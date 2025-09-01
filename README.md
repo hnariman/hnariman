@@ -5,7 +5,8 @@
 **Skills:** 
 - Full Stack Development
 - Cloud Optimization (AWS Expert - translating xp to other cloud providers)
-- Problem Solving  
+- Problem Solving
+- Solana Builder
 
 **Certifications:**  
 - Software Architect
