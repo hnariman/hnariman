@@ -1,7 +1,7 @@
 ## Nariman Huseynov
 
 ### 🦀 Rust | Node.js | TypeScript | C++ | AWS 🚀
-
+![](https://komarev.com/ghpvc/?username=hnariman)
 **Skills:** 
 - Full Stack Development
 - Cloud Optimization (AWS Expert - translating xp to other cloud providers)
