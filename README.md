@@ -1,5 +1,7 @@
 ## Nariman Huseynov
 
+https://wakatime.com/badge/user/f29390f1-c6d6-465b-9d83-f1180e547f8a.svg
+
 ### 🦀 Rust | Node.js | TypeScript | C++ | AWS 🚀
 
 **Skills:** 
